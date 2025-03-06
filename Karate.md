@@ -1,5 +1,21 @@
 # Karate
 
+## Algemeen
+
+### Taisabaki en richting
+
+De zwarte pijl is de richting vanuit waar de tegenstander komt. Het aantal graden voor Taisabaki is gebaseerd op het
+verschil van de richting waar je uitstapt. Bijvoorbeeld bij rood stap je uit naar de zijkant met links, maar je stapt niet precies
+90 graden uit. Ten opzichte van de zwarte lijn zit er ongeveer een verschil van 10 graden naar achteren in.
+
+Rood = Taisabaki naar de zijkant, 10 graden naar achteren
+
+Geel = Taisabaki schuin naar achteren, 45 graden
+
+Groen = Taisabaki naar achteren, 30 graden naar rechts
+
+![Taisabaki.png](IMG/Taisabaki.png)
+
 ## Ido Kihon
 
 Stoten, i.c.m. Kette ook een trap.
@@ -45,12 +61,12 @@ Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
 
 Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 
-| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                            |
-|-----------------------------------------|----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen en stoot.                                                                          |
-| <span style="color:yellow">**2**</span> | Gedan Bari           | Junzuki richting buik  | Taisabaki binnenkant ,45 graden schuin naar achter; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot, hand bij vuist tegenstander       |
-| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant, achterste voet 30 graden naar achter; blok van boven naar beneden; hand boven ellenoog tegenstander; instappen; stoop in de zij |
-| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  |                                                                                                                                                       |
+| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                       |
+|-----------------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen; stoot op de buik                                                                                                                                                                             |
+| <span style="color:yellow">**2**</span> | Gedan Bari           | Junzuki richting buik  | Taisabaki binnenkant schuin naar achter, 45 graden ; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot op de zij; hand bij vuist tegenstander                                                                                                       |
+| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant, naar achter, kleine beetje uitstappen, 30 graden naar rechts; blok van boven naar beneden; hand boven ellenoog tegenstander; instappen; stoot op de zij                                                                                    |
+| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant, naar de zijkant, klein beetje uitstappen, 10 graden naar achteren ; blok van boven naar beneden; stoot met links op de buik; stoot met links op het hoofd; instappen; hand boven elleboog tegenstander; stoot, hand bij vuist tegenstander |
 
 ## Ippon Kumite Keri Uke
 

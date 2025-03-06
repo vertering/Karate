@@ -4,12 +4,12 @@
 
 Stoten, i.c.m. Kette ook een trap.
 
-| Nummer                                           | Naam                  | Omschrijving                   |
-|--------------------------------------------------|-----------------------|--------------------------------|
-| <code style="color : Gold">Geel 1</code>         | Junzuki               | Stap; stoot met voorste hand   |
-| <code style="color : Gold">Geel 2</code>         | Gyakuzuki             | Stap; stoot met achterste hand |
-| <code style="color : Darkorange">Oranje 3</code> | Junzuki No Tsukkomi   | Supermanstoot                  |
-| <code style="color : Darkorange">Oranje 4</code> | Gyakuzuki No Tsukkomi | Brede stand; stoot naar navel  |
+| Nummer                                  | Naam                  | Omschrijving                   |
+|-----------------------------------------|-----------------------|--------------------------------|
+| <span style="color:yellow">**1**</span> | Junzuki               | Stap; stoot met voorste hand   |
+| <span style="color:yellow">**2**</span> | Gyakuzuki             | Stap; stoot met achterste hand |
+| <span style="color:orange">**3**</span> | Junzuki No Tsukkomi   | Supermanstoot                  |
+| <span style="color:orange">**4**</span> | Gyakuzuki No Tsukkomi | Brede stand; stoot naar navel  |
 
 ## Keri Waza
 

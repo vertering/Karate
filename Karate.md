@@ -16,6 +16,17 @@ Groen = Taisabaki naar achteren, 30 graden naar rechts
 
 ![Taisabaki.png](IMG/Taisabaki.png)
 
+## Semewaza
+
+
+
+| Nummer                                  | Naam             | Omschrijving                                                                                                                                                                                                                                                                       |
+|-----------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Tateken          |                                                                                                                                                                                                                                                                                    |
+| <span style="color:yellow">**2**</span> | Uraken           |                                                                                                                                                                                                                                                                                    |
+| <span style="color:orange">**3**</span> | Shuto Uchi       | Arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zij, palm naar de onderkant; gesloten hand open, achter de oor, palm naar achter; slag, arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zijn |
+| <span style="color:orange">**4**</span> | Kagite / Furiken |                                                                                                                                                                                                                                                                                    |
+
 ## Ido Kihon
 
 Stoten, i.c.m. Kette ook een trap.

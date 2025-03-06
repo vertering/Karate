@@ -4,12 +4,12 @@
 
 Stoten, i.c.m. Kette ook een trap.
 
-| Nummer                                  | Naam                  | Omschrijving                   |
-|-----------------------------------------|-----------------------|--------------------------------|
-| <span style="color:yellow">**1**</span> | Junzuki               | Stap; stoot met voorste hand   |
-| <span style="color:yellow">**2**</span> | Gyakuzuki             | Stap; stoot met achterste hand |
-| <span style="color:orange">**3**</span> | Junzuki No Tsukkomi   | Supermanstoot                  |
-| <span style="color:orange">**4**</span> | Gyakuzuki No Tsukkomi | Brede stand; stoot naar navel  |
+| Nummer                                           | Naam                  | Omschrijving                   |
+|--------------------------------------------------|-----------------------|--------------------------------|
+| <code style="color : Gold">Geel 1</code>         | Junzuki               | Stap; stoot met voorste hand   |
+| <code style="color : Gold">Geel 2</code>         | Gyakuzuki             | Stap; stoot met achterste hand |
+| <code style="color : Darkorange">Oranje 3</code> | Junzuki No Tsukkomi   | Supermanstoot                  |
+| <code style="color : Darkorange">Oranje 4</code> | Gyakuzuki No Tsukkomi | Brede stand; stoot naar navel  |
 
 ## Keri Waza
 
@@ -25,26 +25,30 @@ Trappen
 ## Renraku Waza
 
 Combinaties
-| Nummer | Naam | Omschrijving |
-|-|-|-|
-|<span style="color:yellow">**1**</span>|Maegeri, Gyakuzuki||
-|<span style="color:yellow">**2**</span>|Mawashigeri, Guyakuzuki||
-|<span style="color:yellow">**3**</span>|Maegeri, Mawashigeri, Gyakuzuki| |
-|<span style="color:orange">**4**</span>|Maegeri, Mawashigeri, Uraken, Gyakuzuki||
-|<span style="color:orange">**5**</span>|Surikomi sokuto, Uraken, Gyakuzuki| Slip stap voren; sokuto (zijwaardse trap)|
-|<span style="color:orange">**6**</span>|Tsugi ashi mawashigeri, Tsugi ashi gyakuzuki| Achterste voet achter voorstevoet; mawashigeri met voorste voet; stap door met voorste voet gevolgd door gyakuzuki|
+
+| Nummer                                                                                       | Naam                                         | Omschrijving                              |
+|----------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------|
+| <span style="color:yellow">**1**</span>                                                      | Maegeri, Gyakuzuki                           |                                           |
+| <span style="color:yellow">**2**</span>                                                      | Mawashigeri, Guyakuzuki                      |                                           |
+| <span style="color:yellow">**3**</span>                                                      | Maegeri, Mawashigeri, Gyakuzuki              |                                           |
+| <span style="color:orange">**4**</span>                                                      | Maegeri, Mawashigeri, Uraken, Gyakuzuki      |                                           |
+| <span style="color:orange">**5**</span>                                                      | Surikomi sokuto, Uraken, Gyakuzuki           | Slip stap voren; sokuto (zijwaardse trap) |
+| <span style="color:orange">**6**</span>                                                      | Tsugi ashi mawashigeri, Tsugi ashi gyakuzuki | Achterste voet achter                     
+ voorstevoet; mawashigeri met voorste voet; stap door met voorste voet gevolgd door gyakuzuki |
 
 ## Ippon Kumite Tsuki Uke
 
 Blok op stoot + tegenstoot.
 Voor de stoten als aanvaller uitstappen met een Junzuki (licht). Daarna aanval uitvoeren. Aanval altijd met rechts.
+Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
+Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 
-| Nummer                                  | Aanvaller               | Verdediger                                                                                                                          |
-|-----------------------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Junzuki richting hoofd. | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen en stoot.                                                        |
-| <span style="color:yellow">**2**</span> | Junzuki richting buik   | Taisabaki 45 graden schuin naar achter; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot, hand bij vuist tegenstander |
-| <span style="color:orange">**3**</span> |                         | Otoshi Uke - outside = Blok van boven naar beneden                                                                                  |
-| <span style="color:orange">**4**</span> |                         | Otoshi Uke - inside = Blok van boven naar beneden                                                                                   |
+| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                            |
+|-----------------------------------------|----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen en stoot.                                                                          |
+| <span style="color:yellow">**2**</span> | Gedan Bari           | Junzuki richting buik  | Taisabaki binnenkant ,45 graden schuin naar achter; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot, hand bij vuist tegenstander       |
+| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant, achterste voet 30 graden naar achter; blok van boven naar beneden; hand boven ellenoog tegenstander; instappen; stoop in de zij |
+| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  |                                                                                                                                                       |
 
 ## Ippon Kumite Keri Uke
 

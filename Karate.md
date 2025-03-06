@@ -39,8 +39,11 @@ Combinaties
 ## Ippon Kumite Tsuki Uke
 
 Blok op stoot + tegenstoot.
+
 Voor de stoten als aanvaller uitstappen met een Junzuki (licht). Daarna aanval uitvoeren. Aanval altijd met rechts.
+
 Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
+
 Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 
 | Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                            |
@@ -53,8 +56,11 @@ Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 ## Ippon Kumite Keri Uke
 
 Blok op trap + tegenstoot.
+
 Voor de trappen als aanvaller uitstappen in Kamae. Daarna aanval uitvoeren. Aanval altijd met rechts.
+
 Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
+
 Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 
 | Nummer                                  | Aanvaller | Verdediger                                                                                                                                                                                                           |

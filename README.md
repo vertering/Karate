@@ -1,1 +1,1 @@
-"#Karate notes" 
+Karate notes

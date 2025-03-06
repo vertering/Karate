@@ -26,15 +26,14 @@ Trappen
 
 Combinaties
 
-| Nummer                                                                                       | Naam                                         | Omschrijving                              |
-|----------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------|
-| <span style="color:yellow">**1**</span>                                                      | Maegeri, Gyakuzuki                           |                                           |
-| <span style="color:yellow">**2**</span>                                                      | Mawashigeri, Guyakuzuki                      |                                           |
-| <span style="color:yellow">**3**</span>                                                      | Maegeri, Mawashigeri, Gyakuzuki              |                                           |
-| <span style="color:orange">**4**</span>                                                      | Maegeri, Mawashigeri, Uraken, Gyakuzuki      |                                           |
-| <span style="color:orange">**5**</span>                                                      | Surikomi sokuto, Uraken, Gyakuzuki           | Slip stap voren; sokuto (zijwaardse trap) |
-| <span style="color:orange">**6**</span>                                                      | Tsugi ashi mawashigeri, Tsugi ashi gyakuzuki | Achterste voet achter                     
- voorstevoet; mawashigeri met voorste voet; stap door met voorste voet gevolgd door gyakuzuki |
+| Nummer                                  | Naam                                         | Omschrijving                                                                                                        |
+|-----------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Maegeri, Gyakuzuki                           |                                                                                                                     |
+| <span style="color:yellow">**2**</span> | Mawashigeri, Guyakuzuki                      |                                                                                                                     |
+| <span style="color:yellow">**3**</span> | Maegeri, Mawashigeri, Gyakuzuki              |                                                                                                                     |
+| <span style="color:orange">**4**</span> | Maegeri, Mawashigeri, Uraken, Gyakuzuki      |                                                                                                                     |
+| <span style="color:orange">**5**</span> | Surikomi sokuto, Uraken, Gyakuzuki           | Slip stap voren; sokuto (zijwaardse trap)                                                                           |
+| <span style="color:orange">**6**</span> | Tsugi ashi mawashigeri, Tsugi ashi gyakuzuki | Achterste voet achter  voorstevoet; mawashigeri met voorste voet; stap door met voorste voet gevolgd door gyakuzuki |                     
 
 ## Ippon Kumite Tsuki Uke
 

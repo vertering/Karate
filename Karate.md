@@ -5,7 +5,8 @@
 ### Taisabaki en richting
 
 De zwarte pijl is de richting vanuit waar de tegenstander komt. Het aantal graden voor Taisabaki is gebaseerd op het
-verschil van de richting waar je uitstapt. Bijvoorbeeld bij rood stap je uit naar de zijkant met links, maar je stapt niet precies
+verschil van de richting waar je uitstapt. Bijvoorbeeld bij rood stap je uit naar de zijkant met links, maar je stapt
+niet precies
 90 graden uit. Ten opzichte van de zwarte lijn zit er ongeveer een verschil van 10 graden naar achteren in.
 
 Rood = Taisabaki naar de zijkant, 10 graden naar achteren
@@ -18,14 +19,47 @@ Groen = Taisabaki naar achteren, 30 graden naar rechts
 
 ## Semewaza
 
-
+Verschillende slagen
 
 | Nummer                                  | Naam             | Omschrijving                                                                                                                                                                                                                                                                       |
 |-----------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span style="color:yellow">**1**</span> | Tateken          |                                                                                                                                                                                                                                                                                    |
 | <span style="color:yellow">**2**</span> | Uraken           |                                                                                                                                                                                                                                                                                    |
 | <span style="color:orange">**3**</span> | Shuto Uchi       | Arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zij, palm naar de onderkant; gesloten hand open, achter de oor, palm naar achter; slag, arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zijn |
-| <span style="color:orange">**4**</span> | Kagite / Furiken |                                                                                                                                                                                                                                                                                    |
+| <span style="color:orange">**4**</span> | Kagite / Furiken | Hoek stoot, op moment van contact arm terughalen                                                                                                                                                                                                                                   |
+
+## Ukewaza
+
+Blokken
+
+| Nummer                                  | Naam        | Omschrijving |
+|-----------------------------------------|-------------|--------------|
+| <span style="color:yellow">**1**</span> | Joden Uke   | Hoge blok    |
+| <span style="color:yellow">**2**</span> | Gedam Barai | Lage blok    |
+| <span style="color:orange">**3**</span> | Uchi Uke    |              |
+| <span style="color:orange">**4**</span> | Soto Uke    |              |
+
+## Tewaza
+
+Stoten op kussen
+
+| Nummer                                  | Naam      | Omschrijving |
+|-----------------------------------------|-----------|--------------|
+| <span style="color:yellow">**1**</span> | Junzuki   |              |
+| <span style="color:yellow">**2**</span> | Gyakuzuki |              |
+| <span style="color:orange">**3**</span> | Uraken    |              |
+| <span style="color:orange">**4**</span> | Empi      | Ellenboog    |
+
+## Ashiwaza
+
+Trappen op kussen
+
+| Nummer                                  | Naam        | Omschrijving |
+|-----------------------------------------|-------------|--------------|
+| <span style="color:yellow">**1**</span> | Hizageri    | Knie         |
+| <span style="color:yellow">**2**</span> | Maegeri     |              |
+| <span style="color:orange">**3**</span> | Mawashigeri | Low kick     |
+| <span style="color:orange">**4**</span> | Sokuto      | Met stap     |
 
 ## Ido Kihon
 
@@ -75,7 +109,7 @@ Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
 | Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                       |
 |-----------------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen; stoot op de buik                                                                                                                                                                             |
-| <span style="color:yellow">**2**</span> | Gedan Bari           | Junzuki richting buik  | Taisabaki binnenkant schuin naar achter, 45 graden ; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot op de zij; hand bij vuist tegenstander                                                                                                       |
+| <span style="color:yellow">**2**</span> | Gedan Barai          | Junzuki richting buik  | Taisabaki binnenkant schuin naar achter, 45 graden ; Gedan Bari; instappen; hand boven elleboog tegenstander; stoot op de zij; hand bij vuist tegenstander                                                                                                       |
 | <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant, naar achter, kleine beetje uitstappen, 30 graden naar rechts; blok van boven naar beneden; hand boven ellenoog tegenstander; instappen; stoot op de zij                                                                                    |
 | <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant, naar de zijkant, klein beetje uitstappen, 10 graden naar achteren ; blok van boven naar beneden; stoot met links op de buik; stoot met links op het hoofd; instappen; hand boven elleboog tegenstander; stoot, hand bij vuist tegenstander |
 

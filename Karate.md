@@ -27,7 +27,7 @@ Groen = Taisabaki naar achteren, 30 graden naar rechts
 
 Technieken stilstaand
 
-### Semewaza
+### Seme Waza
 
 Stoten en slagen
 
@@ -38,7 +38,7 @@ Stoten en slagen
 | <span style="color:orange">**3**</span> | Shuto Uchi       | Arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zij, palm naar de onderkant; gesloten hand open, achter de oor, palm naar achter; slag, arm licht gebogen, open hand, palm naar de onderkant; andere hand gesloten als vuist in de zijn |
 | <span style="color:orange">**4**</span> | Kagite / Furiken | Hoek stoot, op moment van contact arm terughalen                                                                                                                                                                                                                                   |
 
-### Ukewaza
+### Uke Waza
 
 Blokken
 
@@ -60,7 +60,7 @@ Stoten op kussen
 | <span style="color:orange">**3**</span> | Uraken    |              |
 | <span style="color:orange">**4**</span> | Empi      | Elleboog     |
 
-### Ashiwaza
+### Ashi Waza
 
 Trappen op kussen
 

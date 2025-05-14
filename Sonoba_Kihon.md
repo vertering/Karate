@@ -39,9 +39,9 @@ Stoten op kussen
 
 Trappen op kussen
 
-| Nummer                                  | Naam              | Omschrijving                                                               |
-|-----------------------------------------|-------------------|----------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Maegeri           |                                                                            |
-| <span style="color:yellow">**2**</span> | Mawashigeri       |                                                                            |
-| <span style="color:orange">**3**</span> | Hizageri          | Knie                                                                       |
-| <span style="color:orange">**4**</span> | Tsugi-Ashi Sokuto | Zijwaartse trap; hoek van 90 graden op het kussen; klein beetje bijstappen |
+| Nummer                                  | Naam              | Omschrijving                                                                |
+|-----------------------------------------|-------------------|-----------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Maegeri           | Voorwaartste trap                                                           |
+| <span style="color:yellow">**2**</span> | Mawashigeri       | Draaitrap                                                                   |
+| <span style="color:orange">**3**</span> | Hizageri          | Knie                                                                        |
+| <span style="color:orange">**4**</span> | Tsugi-Ashi Sokuto | Zijwaartse trap; hoek van 90 graden op het kussen; klein beetje bij stappen |

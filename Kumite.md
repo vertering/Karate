@@ -2,22 +2,30 @@
 
 Partneroefeningen
 
+## Algemeen
+
+Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
+
+Inside = Binnenkant van het lichaam, kan aanvallen op de buik en het lichaam.
+
+
+| Naam      | Omschrijving                                |
+|-----------|---------------------------------------------|
+| Harai Uke | Vegende blok, waarbij je het been mee neemt |
+
+
 ## Ippon Kumite Tsuki Uke
 
 Blok op stoot + tegenstoot.
 
 Voor de stoten als aanvaller uitstappen met een Junzuki (licht). Daarna aanval uitvoeren. Aanval altijd met rechts.
 
-Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
-
-Inside = Binnenkant van het lichaam, kan aanvallen op de buik en torso.
-
-| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                                           |
-|-----------------------------------------|----------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki stap naar achter; zelfde voet voor; Jodan Uke; instappen; stoot op de buik                                                                                                                                                                                                 |
-| <span style="color:yellow">**2**</span> | Gedan Barai          | Junzuki richting buik  | Taisabaki binnenkant schuin naar achter, 45 graden ; Gedan Barai; instappen; hand boven elleboog tegenstander; stoot op de zij; hand bij vuist tegenstander                                                                                                                          |
-| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant, naar achter, klein beetje uitstappen, 30 graden naar rechts; blok van boven naar beneden; stoot op het hoofd; hand boven elleboog tegenstander; instappen; stoot op de zij. Blok en stoot op het gezicht in 1 vloeiende beweging (wieltje)                     |
-| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant, naar de zijkant, klein beetje uitstappen, 10 graden naar achteren; blok van boven naar beneden; stoot met links op de lichaam; stoot met links op het hoofd; instappen; hand boven elleboog tegenstander; stoot op op het lichaam; hand bij vuist tegenstander |
+| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                                                         |
+|-----------------------------------------|----------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki (rechtervoet naar achter); Jodan Uke; instappen; stoot rechts op de buik                                                                                                                                                                                                                 |
+| <span style="color:yellow">**2**</span> | Gedan Barai          | Junzuki richting buik  | Taisabaki binnenkant (rechtervoet schuin naar achter, 45 graden); Gedan Barai; instappen; linkerhand boven elleboog tegenstander; stoot rechts in de zij; rechterhand bij vuist tegenstander                                                                                                       |
+| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant (naar achter, klein beetje uitstappen, 30 graden naar rechts); blok van boven naar beneden;  licht instappen; stoot op het hoofd; linkerhand boven elleboog tegenstander; instappen; stoot rechts in de zij. Blok en stoot op het gezicht in 1 vloeiende beweging (wieltje)   |
+| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant (naar de zijkant, klein beetje uitstappen, 10 graden naar achteren; blok van boven naar beneden; stoot  links op de lichaam; stoot  links op het hoofd; instappen; linkerhand boven elleboog tegenstander; stoot rechts op op het lichaam; rechterhand bij vuist tegenstander |
 
 ## Ippon Kumite Keri Uke
 
@@ -25,13 +33,6 @@ Blok op trap + tegenstoot.
 
 Voor de trappen als aanvaller uitstappen in Kamae. Daarna aanval uitvoeren. Aanval altijd met rechts.
 
-Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
-
-Inside = Binnenkant van het lichaam, kan aanvallen op het lichaam.
-
-| Naam      | Omschrijving                                |
-|-----------|---------------------------------------------|
-| Harai Uke | Vegende blok, waarbij je het been mee neemt |
 
 | Nummer                                  | Naam                     | Aanvaller                    | Verdediger                                                                                                                                                                                                                          |
 |-----------------------------------------|--------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -8,11 +8,9 @@ Outside = Buitenkant van het lichaam, kan aanvallen in de zij.
 
 Inside = Binnenkant van het lichaam, kan aanvallen op de buik en het lichaam.
 
-
-| Naam      | Omschrijving                                              |
-|-----------|-----------------------------------------------------------|
-| Harai Uke | Vegende blok met open hand, waarbij je het been mee neemt |
-
+| Naam      | Omschrijving |
+|-----------|--------------|
+| Harai Uke | Vegende blok |
 
 ## Ippon Kumite Tsuki Uke
 
@@ -20,12 +18,12 @@ Blok op stoot + tegenstoot.
 
 Voor de stoten als aanvaller uitstappen met een Junzuki (licht). Daarna aanval uitvoeren. Aanval altijd met rechts.
 
-| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                                                                    |
-|-----------------------------------------|----------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki (rechtervoet naar achter); Jodan Uke; instappen; stoot rechts op de buik                                                                                                                                                                                                                            |
-| <span style="color:yellow">**2**</span> | Gedan Barai          | Junzuki richting buik  | Taisabaki binnenkant (rechtervoet schuin naar achter, 45 graden); Gedan Barai; instappen; linkerhand boven elleboog tegenstander; stoot rechts in de zij; rechterhand bij vuist tegenstander                                                                                                                  |
-| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant (naar achter, klein beetje uitstappen, rechtervoet 30 graden naar achter); blok van boven naar beneden;  licht instappen; stoot op het hoofd; linkerhand boven elleboog tegenstander; instappen; stoot rechts in de zij. Blok en stoot op het gezicht in 1 vloeiende beweging (wieltje)  |
-| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant (naar de zijkant, klein beetje uitstappen, rechtervoet 10 graden naar achter); blok van boven naar beneden; stoot  links op de lichaam; stoot  links op het hoofd; instappen; linkerhand boven elleboog tegenstander; stoot rechts op op het lichaam; rechterhand bij vuist tegenstander |
+| Nummer                                  | Naam                 | Aanvaller              | Verdediger                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------------|----------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Jodan Uke            | Junzuki richting hoofd | Taisabaki (rechtervoet naar achter); Jodan Uke; instappen; stoot rechts op de buik                                                                                                                                                                                                                           |
+| <span style="color:yellow">**2**</span> | Gedan Barai          | Junzuki richting buik  | Taisabaki binnenkant (rechtervoet schuin naar achter, 45 graden); Gedan Barai; instappen; linkerhand boven elleboog tegenstander; stoot rechts in de zij; rechterhand bij vuist tegenstander                                                                                                                 |
+| <span style="color:orange">**3**</span> | Otoshi Uke - outside | Junzuki richting buik  | Taisabaki buitenkant (naar achter, klein beetje uitstappen, rechtervoet 30 graden naar links); blok van boven naar beneden;  licht instappen; stoot op het hoofd; linkerhand boven elleboog tegenstander; instappen; stoot rechts in de zij. Blok en stoot op het gezicht in 1 vloeiende beweging (wieltje)  |
+| <span style="color:orange">**4**</span> | Otoshi Uke - inside  | Junzuki richting buik  | Taisabaki binnenkant (naar de zijkant, klein beetje uitstappen, rechtervoet 10 graden naar achter); blok van boven naar beneden; stoot  links op de lichaam; stoot links op het hoofd; instappen; linkerhand boven elleboog tegenstander; stoot rechts op op het lichaam; rechterhand bij vuist tegenstander |
 
 ## Ippon Kumite Keri Uke
 
@@ -33,24 +31,23 @@ Blok op trap + tegenstoot.
 
 Voor de trappen als aanvaller uitstappen in Kamae. Daarna aanval uitvoeren. Aanval altijd met rechts.
 
-
-| Nummer                                  | Naam                     | Aanvaller                    | Verdediger                                                                                                                                                                                                                          |
-|-----------------------------------------|--------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> | Uchi Harai Uke - outside | Maegeri                      | Taisabaki buitenkant (naar achter, klein beetje uitstappen, rechtervoet 30 graden naar achter); Harai Uke; linkerhand boven elleboog tegenstander; licht instappen; stoot rechts op de zij                                          |
-| <span style="color:yellow">**2**</span> | Uchi Harai Uke - inside  | Maegeri                      | Taisabaki binnenkant (naar achter, klein beetje uitstappen, linkervoet 30 graden naar achter); Harai Uke; soort van Uraken met rechts op de buik; rechterhand bij vuist tegenstander; stoot met links naar het hoofd                |
-| <span style="color:orange">**3**</span> | Soto Harai Uke - outside | Naar voren schuiven, maegeri | Taisabaki buitenkant, schuin naar achter, 45 graden; Harai Uke, met gesloten hand; stoot naar het hoofd; hand boven elleboog tegenstander; instappen; stoot op de zij.                                                              |
-| <span style="color:orange">**4**</span> | Soto Harai Uke - inside  | Naar voren schuiven, maegeri | Taisabaki binnenkant, schuin naar achter, 45 graden; Harai Uke, met gesloten hand; stoot met links op het hoofd; stoot met links op de lichaam; hand boven elleboog tegenstander; stoot op het lichaam; hand bij vuist tegenstander |
+| Nummer                                  | Naam                     | Aanvaller                    | Verdediger                                                                                                                                                                                                                                                                                           |
+|-----------------------------------------|--------------------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Uchi Harai Uke - outside | Maegeri                      | Taisabaki buitenkant (naar achter, klein beetje uitstappen, rechtervoet 30 graden naar links); Harai Uke; linkerhand boven elleboog tegenstander; licht instappen; stoot rechts op de zij                                                                                                            |
+| <span style="color:yellow">**2**</span> | Uchi Harai Uke - inside  | Maegeri                      | Taisabaki binnenkant (naar achter, klein beetje uitstappen, linkervoet 30 graden naar rechts); Harai Uke; soort van Uraken met rechts op de buik; rechterhand bij vuist tegenstander; stoot met links naar het hoofd                                                                                 |
+| <span style="color:orange">**3**</span> | Soto Harai Uke - outside | Naar voren schuiven, maegeri | Taisabaki buitenkant (linkervoet schuin naar achter, 45 graden); Harai Uke, met gesloten hand; stoot rechts op het hoofd; rechterhand boven elleboog tegenstander; instappen; stoot links op de zij.                                                                                                 |
+| <span style="color:orange">**4**</span> | Soto Harai Uke - inside  | Naar voren schuiven, maegeri | Taisabaki binnenkant (rechtervoet schuin naar achter, 45 graden); Harai Uke, met gesloten hand; stoot met links op de lichaam; stoot links op het hoofd; linkerhand open met palm naar beneden op rechterschouder tegenstander; stoot recht op het lichaam; rechterhand bij linkervuist tegenstander |
 
 ## Seme Kumite
 
 Aanvallen waarbij de tegenstander stil staat.
 
-| Nummer                                  | Naam    | Verdediger | Aanvaller                                                                                                                                                                                                                  |
-|-----------------------------------------|---------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:yellow">**1**</span> |         |            |                                                                                                                                                                                                                            |
-| <span style="color:yellow">**2**</span> |         |            |                                                                                                                                                                                                                            |
-| <span style="color:orange">**3**</span> | Uraken  | Kamae      | Instappen; Uraken op vuist tegenstander; verder instappen, lichaam draaien; stoot met links op het hoofd; 90 graden draaien; hand boven elleboog tegenstander; stoot op de zij                                             |
-| <span style="color:orange">**4**</span> | Tateken | Kamae      | Instappen, heel licht naar de binnenkant; hand op vuist tegenstander, licht vuist tegenstander naar je toe trekken; stoot op het hoofd; verder instappen; hand bij vuist tegenstander; lichaam draaien; stoot op het hoofd |
+| Nummer                                  | Naam                             | Verdediger | Aanvaller                                                                                                                                                                                                                  |
+|-----------------------------------------|----------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:yellow">**1**</span> | Soto -Ayummi Ashi Nagashizuki    |            |                                                                                                                                                                                                                            |
+| <span style="color:yellow">**2**</span> | Uchi - Hiki Ayumi Ashi Tsuki-Uke |            |                                                                                                                                                                                                                            |
+| <span style="color:orange">**3**</span> | Soto - Yori Ashi Uraken          | Kamae      | Instappen; Uraken op vuist tegenstander; verder instappen, lichaam draaien; stoot met links op het hoofd; 90 graden draaien; hand boven elleboog tegenstander; stoot op de zij                                             |
+| <span style="color:orange">**4**</span> | uchi = Tsuhgi Ashi Tateken       | Kamae      | Instappen, heel licht naar de binnenkant; hand op vuist tegenstander, licht vuist tegenstander naar je toe trekken; stoot op het hoofd; verder instappen; hand bij vuist tegenstander; lichaam draaien; stoot op het hoofd |
 
 ## Taoshi Kumite
 

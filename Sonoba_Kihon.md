@@ -20,7 +20,7 @@ Blokken
 | Nummer                                  | Naam        | Omschrijving                                                  |
 |-----------------------------------------|-------------|---------------------------------------------------------------|
 | <span style="color:yellow">**1**</span> | Joden Uke   | Hoge blok                                                     |
-| <span style="color:yellow">**2**</span> | Gedam Barai | Lage blok                                                     |
+| <span style="color:yellow">**2**</span> | Gedan Barai | Lage blok                                                     |
 | <span style="color:orange">**3**</span> | Uchi Uke    | Blok van buiten naar binnen; ontspannen; blok voorbij gezicht |
 | <span style="color:orange">**4**</span> | Soto Uke    | Blok van binnen naar buiten                                   |
 
